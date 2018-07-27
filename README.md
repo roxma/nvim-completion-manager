@@ -1,4 +1,8 @@
- :heart: for my favorite editor
+# :warning: THIS REPO IS DEPRECATED. USE [NCM2](https://github.com/ncm2/ncm2) INSTEAD.
+
+---
+
+:heart: for my favorite editor
 
 # A Completion Framework for Neovim
 
